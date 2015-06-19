@@ -1,0 +1,11 @@
+html, button, input, select, textarea,p { font-family: 'Lato', sans-serif;  }
+
+
+body { margin: auto; font-family: 'Lato', sans-serif;background: #66ccff; background-size: 100%;}
+
+
+h1 {color: #FFFFFF; font-style: italic; font-size: 40px;text-align: center; margin: 10px 0 10px 0px;}
+.download-now {margin-left : 25%; text-align: center;}
+.download-now p { color: #fff; font: 30px; margin: 30px 30px 30px 0; line-height: 30px;background: #FFFFFF;}
+.download-btn { border: solid 3px #fff; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; font-size: 17px; letter-spacing: 2px; transition: all 0.5s ease; padding: 13px 70px; display: inline-block; color: #fff;}
+.download-btn:hover, .download-btn:focus { text-decoration: none; border-color: #a58347; color: #a58347; }
